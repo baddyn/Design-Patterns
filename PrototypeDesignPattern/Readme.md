@@ -6,4 +6,4 @@ So instead of creating multiple objects, we create single object and then create
 5. Example- creating DBconnections, creating complex objects etc.
 6. We can create a prototype class, which can store the objects of certain concrete classes of an interface in a map and clone and return when anybody asks.
 7. [Prototype Design Pattern in Hindi | Design Pattern Series](https://www.youtube.com/watch?v=rriiXRdc0HQ)
-8. ([Implementing Deep Copy | Design Pattern Series](https://www.youtube.com/watch?v=lvv2ePs6H6w&t=9s))
+8. [Implementing Deep Copy | Design Pattern Series](https://www.youtube.com/watch?v=lvv2ePs6H6w&t=9s)
