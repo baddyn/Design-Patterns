@@ -4,4 +4,4 @@ So instead of creating multiple objects, we create single object and then create
 3. Shallow (copy by reference) when the cloned object changes will affect non primitive data types (so if object has an object of type student) then any changes in the student of clone will also modify original object
 4. Deep copy (copy by value) will create different object of type student and modification in this student will not impact original object's student variable.
 5. Example- creating DBconnections, creating complex objects etc.
-We can create a prototype class, which can store the objects of certain concrete classes of an interface in a map and clone and return when anybody asks.![image](https://github.com/baddyn/Design-Patterns/assets/52738681/d992e387-6710-462f-8b12-1ce770e260ab)
+We can create a prototype class, which can store the objects of certain concrete classes of an interface in a map and clone and return when anybody asks.
